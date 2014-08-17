@@ -20,6 +20,11 @@ Hardware
 * 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v1.0](https://github.com/KitSprout/AltiumDesigner_PcbLibrary/releases/tag/v1.0) ) 
 * PCB 尺寸 : 600 * 800 mil
 
+Source Code
+========
+* Arduino Code https://github.com/Hom-Wang/Arduino/tree/master/74HC595
+* STM32 Code https://github.com/Hom-Wang/RainbowNanoRed/tree/master/Software/LAB_RNR_74HC595
+
 Related Documents
 ========
 * [Google Drive](http://goo.gl/1bvMms)
