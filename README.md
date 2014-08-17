@@ -22,8 +22,8 @@ Hardware
 
 Source Code
 ========
-* Arduino Code https://github.com/Hom-Wang/Arduino/tree/master/74HC595
-* STM32 Code https://github.com/Hom-Wang/RainbowNanoRed/tree/master/Software/LAB_RNR_74HC595
+* [Arduino Code](https://github.com/Hom-Wang/Arduino/tree/master/74HC595)
+* [STM32 Code](https://github.com/Hom-Wang/RainbowNanoRed/tree/master/Software/LAB_RNR_74HC595)
 
 Related Documents
 ========
