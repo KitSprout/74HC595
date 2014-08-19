@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://about.me/Hom)
 * Version : v1.0
-* Update  : 2014/08/16
+* Update  : 2014/08/20
 
 Description
 ========
@@ -24,6 +24,7 @@ Source Code
 ========
 * [Arduino Code](https://github.com/Hom-Wang/Arduino/tree/master/74HC595)
 * [STM32 Code](https://github.com/Hom-Wang/RainbowNanoRed/tree/master/Software/LAB_RNR_74HC595)
+* [nRF51 Code](https://github.com/Hom-Wang/NRF51/tree/master/NRF51_Test74HC595)
 
 Related Documents
 ========
