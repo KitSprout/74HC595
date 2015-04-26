@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://about.me/Hom)
 * Version : v1.0
-* Update  : 2014/08/20
+* Update  : 2015/04/26
 
 Description
 ========
@@ -37,3 +37,7 @@ View
 Schematic
 ========
 <img src="https://lh4.googleusercontent.com/-CRHj59Mxdec/U-7IEipD3BI/AAAAAAAAKeI/sny6ynNCOWA/s1600/Sch_74HC595.png" />
+
+Get it
+========
+[露天拍賣 Ruten](http://goods.ruten.com.tw/item/show?21408160419859)  
